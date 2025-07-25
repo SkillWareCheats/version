@@ -1,0 +1,7 @@
+{
+    "version": "1.0.1",
+    "download_url": "https://skillware.com/updates/SkillWare-Loader-v1.0.1.exe",
+    "changelog": "- Fixed login issues\\n- Added new features\\n- Improved stability",
+    "force_update": false,
+    "checksum": ""
+}
