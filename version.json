@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "download_url": "https://cdn.discordapp.com/attachments/1389584634467324034/1398426574839349450/example_win32_directx11.exe?ex=688551bc&is=6884003c&hm=cd703001bb72e0436321d77a30e9edc3031ab9f436dfb21b3e1874254133bcf5&",
     "changelog": "Add Auto Updater + Loader Auth fully fixed. Welcome and enjoy!!",
     "force_update": false,
