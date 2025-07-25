@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "download_url": "https://skillware.com/updates/SkillWare-Loader-v1.0.1.exe",
+    "download_url": "https://cdn.discordapp.com/attachments/1389584634467324034/1398416274911920188/example_win32_directx11.exe?ex=68854825&is=6883f6a5&hm=7a854e8cee3edcf7378cd08e8746b18449ad0b5603b0664a2f3d43f9f32b8b7c&",
     "changelog": "- Fixed login issues\\n- Added new features\\n- Improved stability",
     "force_update": false,
     "checksum": ""
