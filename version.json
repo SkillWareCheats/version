@@ -1,7 +1,7 @@
 {
-    "version": "1.0.4",
-    "download_url": "https://cdn.discordapp.com/attachments/1389584634467324034/1398432353952465018/example_win32_directx11.exe?ex=6885571e&is=6884059e&hm=0dccd40c2251421cee0fbf7d7f1e2c66dad2286ca6ea023dd9e83a6b630da914&",
-    "changelog": "Fixe it all. Welcome and enjoy!!",
+    "version": "1.0.5",
+    "download_url": "https://cdn.discordapp.com/attachments/1389584634467324034/1398542506618261565/example_win32_directx11.exe?ex=6885bdb5&is=68846c35&hm=d05d0dac485e833a5a4764acd5a301763ab91d9ca0e36f80692409a8c9b9cb02&",
+    "changelog": "Fixed Buttons. Welcome and enjoy!!",
     "force_update": false,
     "checksum": ""
 }
